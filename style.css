@@ -1,0 +1,29 @@
+body {
+    margin-bottom: 100px;
+}
+
+header h1 {
+    text-align: left
+}
+
+#ul {
+    padding-inline-start: 0px;
+}
+.titulo { 
+    display:inline;
+    margin-right: 2px;
+
+}
+.menu{
+    display:inline;
+    margin-right: 20px;
+
+}
+.menu:hover { 
+    background-color: #ffb400;
+
+}
+#fotoinicial {
+    width: 200px;
+    height: 200px;
+}
